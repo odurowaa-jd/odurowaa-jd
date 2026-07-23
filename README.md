@@ -1,4 +1,4 @@
-# Hello, I'm [JessicaOdurowaaDanquah]! 👋
+# Hello, I'm [Jessica Odurowaa Danquah]! 👋
 ### Full-Stack Developer in the Making | Next.js & PHP Enthusiast
 
 I am a results-driven developer with a passion for building tools that solve real-world problems. My journey began at **Betechified Africa**, where I transformed from a coding novice to a builder of complex web applications in record time.
@@ -21,7 +21,7 @@ I am a results-driven developer with a passion for building tools that solve rea
 | Frontend | Backend & Tools |
 | :--- | :--- |
 | **Languages:** JavaScript (ES6+), HTML5, CSS3 | **Backend:** PHP, SQL (MySQL) |
-| **Frameworks:** React.js, Next.js, Bootstrap | **Tools:** Git, GitHub, Vercel, Netlify |
+| **Frameworks:** React.js, Next.js, Bootstrap | **Tools:** Git, GitHub, Vercel, Netlify, InfinityFree |
 | **Design:** Tailwind CSS, Canva | **Currently Learning:** Advanced Backend & API Design |
 
 ---
