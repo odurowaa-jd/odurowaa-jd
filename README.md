@@ -14,30 +14,30 @@ Driven by a background in Economics, I transition theoretical models into functi
 
 ## Featured Projects
 
-### 1. Cycle Budget | Full-Stack Household Fiscal Infrastructure
+### 1. Statera | Fiscal Equilibrium Engine
+A full-stack financial reconciliation platform designed to ensure institutional fiscal integrity. Built to automate complex data balancing and maintain relational integrity across financial datasets.
+*   **Technologies:** PHP, MySQL, Financial Logic
+*   **Link:** [statera.infinityfreeapp.com](http://statera.infinityfreeapp.com/)
+
+### 2. Equili | Resource Optimization Framework
+An economic modeling tool developed to analyze supply-demand dynamics and optimize market-level resource distribution. It focuses on achieving systemic equilibrium through data-driven insights.
+*   **Technologies:** PHP, MySQL, Economic Modeling
+*   **Link:** [equili.infinityfreeapp.com](http://equili.infinityfreeapp.com/)
+
+### 3. Cycle Budget | Full-Stack Household Fiscal Infrastructure
 A technical solution designed to address household resource constraints. This platform tracks real-time expenditure against algorithmic budget limits to ensure financial optimization and systemic liquidity management.
 *   **Technologies:** PHP, MySQL, Relational Database Design
 *   **Link:** [cycle-budget.xyz](https://www.cycle-budget.xyz/)
 
-### 2. Student Portal | Full-Stack Information System
+### 4. Student Portal | Full-Stack Information System
 A centralized data portal designed to reduce information asymmetry and administrative friction in academic record management. It manages secure student profiles and dynamic academic tracking via a relational backend.
 *   **Technologies:** PHP, MySQL, Information Systems
 *   **Link:** [View Live Site](https://studentportal-capstone.infinityfreeapp.com/index.php)
 
-### 3. Apex Analytics Suite | Financial Data Modeling
+### 5. Apex Analytics Suite | Financial Data Modeling
 An institutional-grade financial engine engineered for complex data processing. This suite bridges the gap between raw datasets and strategic decision-making through robust server-side logic.
 *   **Technologies:** PHP, SQL, Data Analytics
 *   **Link:** [View Live Site](http://apex-analytics.rf.gd/)
-
-### 4. Campus Resource Optimizer | Institutional Allocation System
-A Next.js application built to maximize utility in shared environments. It provides an intelligent framework for the efficient distribution of campus assets through real-time data visualization.
-*   **Technologies:** Next.js, Vercel, Optimization Logic
-*   **Link:** [View Live Site](https://campus-resource-optimizer-six.vercel.app/)
-
-### 5. Aura Scholar | Strategic Academic Planning
-A specialized planning tool designed to manage the extensive data lifecycle of international scholarship and university applications.
-*   **Technologies:** Next.js, React, State Management
-*   **Link:** [View Live Site](https://aura-scholar.vercel.app/)
 
 ---
 
@@ -50,7 +50,7 @@ Next.js, React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap 5, Responsive UI/U
 PHP, MySQL (SQL), Relational Database Architecture, API Integration
 
 **Tools and Deployment:**
-Git, GitHub, Vercel, Netlify, Clerk(Authentication), Canva (Asset Design)
+Git, GitHub, Vercel, Netlify, InfinityFree, Clerk(Authentication), Supabase, Canva (Asset Design)
 
 ---
 
